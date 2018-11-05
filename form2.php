@@ -1,5 +1,5 @@
 <h2>This is form Two</h2>
-<form action="" method="post">
+<form action="insert.php" method="post">
     <div class="form-group">
         <label for="name">Name:</label>
         <input type="text" class="form-control" id="name" placeholder="Enter name" name="name">

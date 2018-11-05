@@ -14,30 +14,35 @@ $(document).ready(function(){
 
 
     /*save and next data of form*/
-    $('#formSave').submit(function (event) {
 
-        var name = $('#name').val(),
-            email = $('#email').val(),
-            phone = $('#phone').val(),
-            allData = {};
+    $(document).on('submit','form',function () {
+        // console.log('Starting transfer');
+ var form = $(this);
+    url = form.attr('action');
+    method = form.attr('method');
+    data = {};
 
-        data['name'] = name;
-        data['email'] = email;
-        data['phone'] = phone;
-
-        $.ajax({
-           url : "insert.php",
-           type : 'post',
-           data : allData,
-            success : function (result) {
-                alert(result);
-            },
-            error: function (xhr) {
-                console.log('Error. Details :: ' + xhr);
-            }
-        });
-
+    form.find('[name]').each(function (index, value) {
+        var input = $(this),
+       name = input.attr('name'),
+           value = input.val();
+       data[name]= value;
     });
-    
+
+    $.ajax({
+       url : url,
+       type : method,
+       data : data,
+        success : function (response) {
+           $('.text-info').text(response);
+        },
+        error:function (xhr) {
+            console.log(xhr.statusText);
+        }
+    });
+        return false;
+    });
+
+
 
 });

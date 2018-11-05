@@ -1,5 +1,5 @@
 <h2>This is form Three</h2>
-<form action="" method="post">
+<form action="insert.php" method="post">
     <div class="form-group">
         <label for="name">Name:</label>
         <input type="text" class="form-control" id="name" placeholder="Enter name" name="name">
@@ -9,8 +9,8 @@
         <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
     </div>
     <div class="form-group">
-        <label for="pwd">Password:</label>
-        <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
+        <label for="pwd">Phone:</label>
+        <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="phone">
     </div>
     <div class="form-group form-check">
         <label class="form-check-label">
