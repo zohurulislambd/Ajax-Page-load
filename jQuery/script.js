@@ -1,6 +1,13 @@
-$(document).ready(function(){
 
+/*
+ * form names array
+ */
+var forms = ["form1.php","form2.php","form3.php"],
+    formIndex = 0;
+
+$(document).ready(function(){
  var page;
+ //initaily shown form 1
     page = $(this).attr('href');
     $("#content").load('form1.php');
 
@@ -29,12 +36,26 @@ $(document).ready(function(){
        data[name]= value;
     });
 
+
     $.ajax({
        url : url,
-       type : method,
+        type: method,
        data : data,
-        success : function (response) {
-           $('.text-info').text(response);
+        statusCode:{
+            201: function (result) {
+                formIndex++;
+                console.log(result);
+                if(formIndex >= 3){
+                    $(".text-info").html('<h3>Last Form insert take place at form3 table</h3>').hide(1000);
+
+                }else{
+                    console.log("Loading : " + forms[formIndex])
+                    $("#content").load(forms[formIndex]);
+                }
+            },
+            404:function (r) {
+                alert(r)
+            }
         },
         error:function (xhr) {
             console.log(xhr.statusText);

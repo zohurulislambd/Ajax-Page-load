@@ -17,7 +17,8 @@
             <input class="form-check-input" type="checkbox" name="remember"> Remember me
         </label>
     </div>
-    <input type="submit" class="btn btn-primary" value="Save & Next" />
+    <input type="hidden" name="form" value="1">
+    <input type="submit" id="formSave" class="btn btn-primary" value="Save & Next" />
 </form>
 
 
