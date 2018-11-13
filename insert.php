@@ -9,12 +9,34 @@ if ($conn-> connect_error){
 
 /*db insert*/
 
+// define variable and set entry value
+$name = $email = $phone = "";
+$nameErr = $emailErr = $phoneErr = "";
 if(isset($_POST['form']) && $_POST['form'] == 1){
+    function test_input($data){
+        $data = trim($data);
+        $data = htmlspecialchars($data);
+        $data = strip_tags($data);
+        return $data;
+    }
+    /*validation entry field*/
+    if (empty($_POST["name"])){
+        $nameErr ="Name field is required";
+    }else{
+        $name = test_input($_POST['name']);
+    }
+    if (empty($_POST["email"])){
+        $emailErr = "email field must be contain";
+    }else{
+        $email = test_input($_POST['email']);
+    }
+    if (empty($_POST["phone"])){
+        $phoneErr = " Phone Filed is empty";
+    }else{
+        $phone = test_input($_POST['phone']);
+    }
 
     //get the data
-    $name = trim(htmlspecialchars(strip_tags($_POST['name'])));
-    $email =trim(htmlspecialchars(strip_tags($_POST['email'])));
-    $phone = trim(htmlspecialchars(strip_tags($_POST['phone'])));
 
     /*db insert*/
     $sql = "INSERT INTO form1 (`name`,`email`,`phone`) VALUES ('$name','$email','$phone')";
@@ -36,12 +58,6 @@ if(isset($_POST['form']) && $_POST['form'] == 1){
         header("HTTP/1.1 304");
         echo "Error".$sql. "<br/>" .$conn->error;
     }
-  /*  $json = array(
-        "name" =>$name,
-        "email" => $email,
-        "phone" => $phone
-    );
-echo json_encode($json);*/
 
 }elseif(isset($_POST['form']) && $_POST['form'] == 2){
 

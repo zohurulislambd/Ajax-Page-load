@@ -4,8 +4,6 @@
     <list default="true" id="58bdacff-a54c-46aa-8f81-b1e2b59ffcd2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form1.php" afterPath="$PROJECT_DIR$/form1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form2.php" afterPath="$PROJECT_DIR$/form2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form3.php" afterPath="$PROJECT_DIR$/form3.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/insert.php" afterPath="$PROJECT_DIR$/insert.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jQuery/script.js" afterPath="$PROJECT_DIR$/jQuery/script.js" />
     </list>
@@ -38,13 +36,13 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3294714">
+    <splitter split-orientation="horizontal" split-proportion="0.5292887">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="389">
+                <state relative-caret-position="595">
                   <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="25" />
                   <folding />
                 </state>
@@ -54,25 +52,25 @@
           <file leaf-file-name="form1.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/form1.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                <state relative-caret-position="68">
+                  <caret line="4" column="94" lean-forward="false" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="insert.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="insert.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/insert.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1134">
-                  <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+                <state relative-caret-position="272">
+                  <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
                   <folding>
-                    <marker date="1542018704888" expanded="true" signature="499:518" ph="INSERT INTO form1... " />
-                    <marker date="1542018704888" expanded="true" signature="499:525" ph="INSERT INTO form1... " />
-                    <marker date="1542018704888" expanded="true" signature="499:541" ph="INSERT INTO form1... " />
-                    <marker date="1542018704888" expanded="true" signature="499:576" ph="INSERT INTO form1... " />
-                    <marker date="1542018704888" expanded="true" signature="1480:1557" ph="INSERT INTO form2... " />
-                    <marker date="1542018704888" expanded="true" signature="2043:2120" ph="INSERT INTO form3... " />
+                    <marker date="1542100662929" expanded="true" signature="1033:1052" ph="INSERT INTO form1... " />
+                    <marker date="1542100662929" expanded="true" signature="1033:1059" ph="INSERT INTO form1... " />
+                    <marker date="1542100662929" expanded="true" signature="1033:1075" ph="INSERT INTO form1... " />
+                    <marker date="1542100662929" expanded="true" signature="1033:1110" ph="INSERT INTO form1... " />
+                    <marker date="1542100662929" expanded="true" signature="1882:1959" ph="INSERT INTO form2... " />
+                    <marker date="1542100662929" expanded="true" signature="2445:2522" ph="INSERT INTO form3... " />
                   </folding>
                 </state>
               </provider>
@@ -82,7 +80,7 @@
             <entry file="file://$PROJECT_DIR$/form2.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="323">
-                  <caret line="19" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+                  <caret line="19" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -105,8 +103,8 @@
           <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/jQuery/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="403">
-                  <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+                <state relative-caret-position="782">
+                  <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -132,12 +130,12 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/page.php" />
         <option value="$PROJECT_DIR$/component/jQuery/script.js" />
-        <option value="$PROJECT_DIR$/form1.php" />
         <option value="$PROJECT_DIR$/form2.php" />
-        <option value="$PROJECT_DIR$/insert.php" />
         <option value="$PROJECT_DIR$/form3.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/form1.php" />
         <option value="$PROJECT_DIR$/jQuery/script.js" />
+        <option value="$PROJECT_DIR$/insert.php" />
       </list>
     </option>
   </component>
@@ -148,7 +146,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="132" />
     <option name="y" value="28" />
     <option name="width" value="1356" />
@@ -196,7 +194,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hrms" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
@@ -238,12 +236,13 @@
       <workItem from="1541665587010" duration="36000" />
       <workItem from="1541667159695" duration="8281000" />
       <workItem from="1541835550882" duration="599000" />
-      <workItem from="1542000987233" duration="11042000" />
+      <workItem from="1542000987233" duration="11963000" />
+      <workItem from="1542084610679" duration="6030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56333000" />
+    <option name="totallyTimeSpent" value="63284000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -255,10 +254,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11246786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07840617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11246786" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -317,12 +316,12 @@
         <state relative-caret-position="442">
           <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding>
-            <marker date="1542018704888" expanded="true" signature="499:518" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:525" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:541" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:576" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="1480:1557" ph="INSERT INTO form2... " />
-            <marker date="1542018704888" expanded="true" signature="2043:2120" ph="INSERT INTO form3... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1052" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1059" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1075" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1110" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1882:1959" ph="INSERT INTO form2... " />
+            <marker date="1542100662929" expanded="true" signature="2445:2522" ph="INSERT INTO form3... " />
           </folding>
         </state>
       </provider>
@@ -372,12 +371,12 @@
         <state relative-caret-position="442">
           <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding>
-            <marker date="1542018704888" expanded="true" signature="499:518" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:525" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:541" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:576" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="1480:1557" ph="INSERT INTO form2... " />
-            <marker date="1542018704888" expanded="true" signature="2043:2120" ph="INSERT INTO form3... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1052" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1059" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1075" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1110" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1882:1959" ph="INSERT INTO form2... " />
+            <marker date="1542100662929" expanded="true" signature="2445:2522" ph="INSERT INTO form3... " />
           </folding>
         </state>
       </provider>
@@ -427,12 +426,12 @@
         <state relative-caret-position="442">
           <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding>
-            <marker date="1542018704888" expanded="true" signature="499:518" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:525" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:541" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:576" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="1480:1557" ph="INSERT INTO form2... " />
-            <marker date="1542018704888" expanded="true" signature="2043:2120" ph="INSERT INTO form3... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1052" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1059" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1075" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1110" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1882:1959" ph="INSERT INTO form2... " />
+            <marker date="1542100662929" expanded="true" signature="2445:2522" ph="INSERT INTO form3... " />
           </folding>
         </state>
       </provider>
@@ -482,12 +481,12 @@
         <state relative-caret-position="323">
           <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
           <folding>
-            <marker date="1542018704888" expanded="true" signature="499:518" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:525" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:541" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:576" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="1480:1557" ph="INSERT INTO form2... " />
-            <marker date="1542018704888" expanded="true" signature="2043:2120" ph="INSERT INTO form3... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1052" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1059" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1075" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1110" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1882:1959" ph="INSERT INTO form2... " />
+            <marker date="1542100662929" expanded="true" signature="2445:2522" ph="INSERT INTO form3... " />
           </folding>
         </state>
       </provider>
@@ -537,12 +536,12 @@
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <marker date="1542018704888" expanded="true" signature="499:518" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:525" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:541" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:576" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="1480:1557" ph="INSERT INTO form2... " />
-            <marker date="1542018704888" expanded="true" signature="2043:2120" ph="INSERT INTO form3... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1052" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1059" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1075" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1110" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1882:1959" ph="INSERT INTO form2... " />
+            <marker date="1542100662929" expanded="true" signature="2445:2522" ph="INSERT INTO form3... " />
           </folding>
         </state>
       </provider>
@@ -592,12 +591,12 @@
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <marker date="1542018704888" expanded="true" signature="499:518" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:525" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:541" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:576" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="1480:1557" ph="INSERT INTO form2... " />
-            <marker date="1542018704888" expanded="true" signature="2043:2120" ph="INSERT INTO form3... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1052" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1059" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1075" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1110" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1882:1959" ph="INSERT INTO form2... " />
+            <marker date="1542100662929" expanded="true" signature="2445:2522" ph="INSERT INTO form3... " />
           </folding>
         </state>
       </provider>
@@ -684,29 +683,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insert.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
-          <folding>
-            <marker date="1542018704888" expanded="true" signature="499:518" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:525" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:541" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="499:576" ph="INSERT INTO form1... " />
-            <marker date="1542018704888" expanded="true" signature="1480:1557" ph="INSERT INTO form2... " />
-            <marker date="1542018704888" expanded="true" signature="2043:2120" ph="INSERT INTO form3... " />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/form2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+          <caret line="19" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -719,27 +702,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form1.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="595">
+          <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/form1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="25" />
+        <state relative-caret-position="68">
+          <caret line="4" column="94" lean-forward="false" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuery/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="782">
+          <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <marker date="1542100662929" expanded="true" signature="1033:1052" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1059" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1075" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1033:1110" ph="INSERT INTO form1... " />
+            <marker date="1542100662929" expanded="true" signature="1882:1959" ph="INSERT INTO form2... " />
+            <marker date="1542100662929" expanded="true" signature="2445:2522" ph="INSERT INTO form3... " />
+          </folding>
         </state>
       </provider>
     </entry>

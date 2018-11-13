@@ -18,7 +18,7 @@
         </label>
     </div>
     <input type="hidden" name="form" value="1">
-    <input type="submit" id="formSave" class="btn btn-primary" value="Save & Next" />
+    <input type="submit" id="formSave" class="btn btn-primary" value="Save & Next"/>
 </form>
 
 

@@ -36,7 +36,6 @@ $(document).ready(function(){
        data[name]= value;
     });
 
-
     $.ajax({
        url : url,
         type: method,
